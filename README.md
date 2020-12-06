@@ -2,7 +2,7 @@
 
 HTML | CSS | Javascript | Git | Github | Scrum 
 
-Amante da Natureza e música eletrônica.
+
 Trabalhei muitos anos com atendimento ao cliente, o que me ensinou a lidar com diversas culturas e personalidades.
 Atualmente estou em transição de carreira para a área da tecnologia. Acredito que com a tecnologia é possível causar um impacto positivo em diversos setores para o melhor convívio da humanidade.
 Procuro sempre estar em ambientes que me agreguem conhecimentos, valores, habilidades e novos desafios. 
