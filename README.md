@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">A passionate frontend developer</h3>
-![logo](https://limaluizpaulo.github.io/trybe.png)
+<img src="/trybe.png"  alt="logo trybe">
 
 
 
