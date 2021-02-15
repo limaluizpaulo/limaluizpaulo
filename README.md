@@ -13,6 +13,6 @@
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/typescript_jx2QG0P-U0.png" alt="typescript" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/github_CEhhSRJdrr.png" alt="github" height="40"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaluizpaulo&layout=compact&hide=html" alt="limaluizpaulo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaluizpaulo&layout=compact&hide=html" alt="limaluizpaulo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=limaluizpaulo&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limaluizpaulo&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
