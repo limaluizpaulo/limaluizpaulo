@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">A passionate web developer</h3>
-<div align="center" >
-<img src="https://limaluizpaulo.github.io/trybe.png"  alt="logo trybe"> </div>
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=limaluizpaulo" alt="limaluizpaulo" /> </p>
 
