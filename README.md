@@ -17,31 +17,31 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limaluizpaulo&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
 
-<h4 align="center"> Web Fundamentals Module - JS, HTML. CSS</h4>
+<h4 align="center"> Web Fundamentals Module - HTML, CSS, Javascript</h4>
 <h5 align="center">Projects:</h5>
 
 
- * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/46">Play Ground Functions Project </a>
- *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/66">Pixels Art Project </a>
- * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/3">To Do List Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/123"> Unit Tests Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/114">Facebook SingUp Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/119">Zoo Functions Project </a>
-*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/92">Shopping Cart Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/122">Jest Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/46">Play Ground Functions Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/66">Pixels Art Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-todo-list/pull/3">To Do List Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/123"> Unit Tests Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/114">Facebook SingUp Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/119">Zoo Functions Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/92">Shopping Cart Project </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-jest/pull/122">Jest Project </a>
  
 <h4 align="center">FrontEnd Module - ReactJS </h4>
 <h5 align="center">Projects:</h5>
 
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/2">Movie Card Library</a>
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/25">Movie Card Library Stateful</a>
-* <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/93">Movie Card Library CRUD</a>
-* <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/117">React Testing Library Project</a>
-* <a href="https://github.com/tryber/sd-010-b-project-frontend-online-store/pull/15">Front-End Online Store</a>
-* <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/117">React Testing Library</a>
-* <a href="https://github.com/tryber/sd-010-b-project-trybewallet/pull/131">Trybe Wallet</a>
-* <a href="https://github.com/tryber/sd-010-b-project-trivia-react-redux/pull/102">Trivia React Redux</a>
-* <a href="https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/111">Star Wars Planet Search</a>
-* <a href="https://github.com/tryber/sd-010-b-project-recipes-app/pull/24">Recipes App</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/2">Movie Card Library</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/25">Movie Card Library Stateful</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/93">Movie Card Library CRUD</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/117">React Testing Library Project</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-frontend-online-store/pull/15">Front-End Online Store</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/117">React Testing Library</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-trybewallet/pull/131">Trybe Wallet</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-trivia-react-redux/pull/102">Trivia React Redux</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/111">Star Wars Planet Search</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-recipes-app/pull/24">Recipes App</a>
 
 
