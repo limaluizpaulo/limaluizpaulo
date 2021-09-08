@@ -17,8 +17,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limaluizpaulo&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
 
-<h4> Web Fundamentals Module - JS, HTML. CSS</h4>
-<h5>Projects:</h5>
+<h4 align="center"> Web Fundamentals Module - JS, HTML. CSS</h4>
+<h5 align="center">Projects:</h5>
 
 
  * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/46">Play Ground Functions Project </a>
@@ -30,8 +30,8 @@
 *  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/92">Shopping Cart Project </a>
 * <a href="https://github.com/tryber/sd-010-b-project-jest/pull/122">Jest Project </a>
  
-<h4>FrontEnd Module - ReactJS </h4>
-<h5>Projects:</h5>
+<h4 align="center">FrontEnd Module - ReactJS </h4>
+<h5 align="center">Projects:</h5>
 
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/2">Movie Card Library</a>
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/25">Movie Card Library Stateful</a>
