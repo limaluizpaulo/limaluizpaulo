@@ -44,4 +44,9 @@
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/111">Star Wars Planet Search</a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-recipes-app/pull/24">Recipes App</a>
 
+<h4 align="center">Back End Module - Node, SQL, Mongo </h4>
+<h5 align="center">Projects:</h5>
+
+* <a align="center" href="https://github.com/tryber/sd-010-b-project-talker-manager/pull/115">HTTP - Talker Manager</a>
+
 
