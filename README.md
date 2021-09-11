@@ -20,7 +20,6 @@
 <h4 align="center"> Web Fundamentals Module - HTML, CSS, Javascript</h4>
 <h5 align="center">Projects:</h5>
 
-
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/46">Play Ground Functions Project </a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/66">Pixels Art Project </a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-todo-list/pull/3">To Do List Project </a>
@@ -47,8 +46,11 @@
 <h4 align="center">Back End Module - Node, SQL, Mongo </h4>
 <h5 align="center">Projects:</h5>
 
+* <a align="center" href="https://github.com/tryber/sd-010-b-mysql-all-for-one/pull/49">MySQL - All For One </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-mysql-vocabulary-booster/pull/104">MySQL - Vocabulary Booster </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-mysql-one-for-all/pull/63">MySQL - One For All </a>
+*  <a align="center" href="https://github.com/tryber/sd-010-b-mongodb-dataflights/pull/115"> MongoDB - DataFlights</a>
+*  <a align="center" href="https://github.com/tryber/sd-010-b-mongodb-commerce/pull/93">MongoDB - Commerce </a>
+*  <a align="center" href="https://github.com/tryber/sd-010-b-mongodb-aggregations/pull/117">MongoDB - Aggregations </a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-talker-manager/pull/115">HTTP - Talker Manager</a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-store-manager/pull/89">REST - Store Manager - </a>
-
-
-
