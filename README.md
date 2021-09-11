@@ -48,5 +48,7 @@
 <h5 align="center">Projects:</h5>
 
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-talker-manager/pull/115">HTTP - Talker Manager</a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-store-manager/pull/89">REST - Store Manager - </a>
+
 
 
