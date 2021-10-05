@@ -53,4 +53,6 @@
 *  <a align="center" href="https://github.com/tryber/sd-010-b-mongodb-commerce/pull/93">MongoDB - Commerce </a>
 *  <a align="center" href="https://github.com/tryber/sd-010-b-mongodb-aggregations/pull/117">MongoDB - Aggregations </a>
 * <a align="center" href="https://github.com/tryber/sd-010-b-project-talker-manager/pull/115">HTTP - Talker Manager</a>
-* <a align="center" href="https://github.com/tryber/sd-010-b-store-manager/pull/89">REST - Store Manager - </a>
+* <a align="center" href="https://github.com/tryber/sd-010-b-store-manager/pull/89">REST - Store Manager </a>
+* <a align="center" target="_blank" href="https://github.com/tryber/sd-010-b-stranger-things-backend/pull/77/">Deploy: Stranger Things Backend</a>
+* <a align="center" target="_blank" href="https://github.com/tryber/sd-010-b-stranger-things-frontend/pull/68">Deploy: Stranger Things Frontend</a>
