@@ -17,6 +17,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limaluizpaulo&show_icons=true&hide=issues,contribs" alt="limaluizpaulo" /></p>
 
+![image](https://github.com/limaluizpaulo/limaluizpaulo.github.io/blob/master/portfolio/github-contribution-grid-snake.svg)
+
 <h4 align="center"> Web Fundamentals Module - HTML, CSS, Javascript</h4>
 <h5 align="center">Projects:</h5>
 
