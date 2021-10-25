@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">A passionate web developer</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=limaluizpaulo" alt="limaluizpaulo" /> </p>
 
 <p align="center">
